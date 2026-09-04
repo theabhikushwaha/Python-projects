@@ -10,7 +10,6 @@ Each project lives in its own folder with its own code and a short README explai
 |---|---|
 | [Password Generator](./password-generator) | Generates random, secure passwords based on user-defined length and character rules |
 | [Snake Game](./snake-game) | Classic Snake game built using Python (Pygame/Turtle) |
-*(Add a new row here every time you add a new project folder.)*
 
 ## 🚀 How to Run
 
