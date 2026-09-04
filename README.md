@@ -10,9 +10,6 @@ Each project lives in its own folder with its own code and a short README explai
 |---|---|
 | [Password Generator](./password-generator) | Generates random, secure passwords based on user-defined length and character rules |
 | [Snake Game](./snake-game) | Classic Snake game built using Python (Pygame/Turtle) |
-| [Tic Tac Toe](./tic-tac-toe) | Two-player Tic Tac Toe playable in the terminal |
-| [Calculator](./calculator) | A simple calculator supporting basic arithmetic operations |
-
 *(Add a new row here every time you add a new project folder.)*
 
 ## 🚀 How to Run
@@ -20,7 +17,7 @@ Each project lives in its own folder with its own code and a short README explai
 Each project is self-contained. To run any project:
 
 ```bash
-git clone https://github.com/<your-username>/python-mini-projects.git
+git clone https://github.com/thabhikushwaha/python-projects.git
 cd python-mini-projects/<project-folder>
 python main.py
 ```
